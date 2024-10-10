@@ -4,7 +4,7 @@ I'm **Claudio Rea**, also known as **Nihilantropy** in the vibrant world of codi
 
 ## 👋 About Me
 
-![](https://private-user-images.githubusercontent.com/74038190/243328563-d0cfe7d1-0b8c-4e4a-9a66-875290ba6065.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mjg1NjE4ODIsIm5iZiI6MTcyODU2MTU4MiwicGF0aCI6Ii83NDAzODE5MC8yNDMzMjg1NjMtZDBjZmU3ZDEtMGI4Yy00ZTRhLTlhNjYtODc1MjkwYmE2MDY1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEwMTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMDEwVDExNTk0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTAwOGMzYmE4OTVmMDIzYjMyNDEwMGZlNzI0YzhjNWY0MDY0NjdlOTczMzE0MTU1NTUyMWU5ODlmZTIzZTNlM2EmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Czqe1-GrCJ3_RK-Twkt--InA_inFlN1UxQxDrTrMwqw)
+![](https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif)
 
 ## **Languages and Tools 🧰🛠️**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
