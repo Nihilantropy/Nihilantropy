@@ -4,7 +4,7 @@ I'm **Claudio Rea**, also known as **Nihilantropy** in the vibrant world of codi
 
 ## 👋 About Me
 
-![](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
+![](https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif)
 
 ## **Languages and Tools 🧰🛠️**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
