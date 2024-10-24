@@ -23,6 +23,9 @@ I'm **Claudio Rea**, also known as **Nihilantropy** in the vibrant world of codi
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+## My stats📊
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicoterabyte&theme=radical&show_icons=true)
+
 I'm a **philosophy graduate** and a **book lover** who decided to dive into the world of IT. Although I'm fairly new to coding, my passion for **cybersecurity**, **game programming**, and **technology** drives me to learn and grow every day. I'm naturally **curious** and **excited** to see what the future holds!
 
 ## 🚀 What I Do
