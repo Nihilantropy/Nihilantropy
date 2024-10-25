@@ -1,11 +1,9 @@
 name: Waka Readme Metrics
 
 on:
-  # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs daily at 12 AM UTC
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # runs daily at 12 AM UTC
 
 jobs:
   update-readme:
@@ -19,7 +17,7 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           
           # Meta Configuration
-          API_BASE_URL: https://wakatime.com/api/v1 # recommended URL format
+          API_BASE_URL: https://wakatime.com/api # default API URL format
           
           # Content Configuration
           SHOW_TITLE: true
@@ -30,16 +28,7 @@ jobs:
           LANG_COUNT: 5 # limit to top 5 languages for a concise summary
           SHOW_TIME: true # display time spent per language or activity
           SHOW_TOTAL: true # show the overall time spent on VSCode
-          SHOW_PROJECTS: "True"
-          SHOW_TOTAL_CODE_TIME : "False"
-          SHOW_LANGUAGE : "True"
-          SHOW_SHORT_INFO : "True"
-          SHOW_LINES_OF_CODE: "False"
-          SHOW_LOC_CHART: "False"
-          SHOW_PROFILE_VIEWS : "True"
-          LOCALE: "en"
-          SHOW_MASKED_TIME: false
-          STOP_AT_OTHER: true
+          STOP_AT_OTHER: true # stop at "Other" section
           IGNORED_LANGUAGES: YAML JSON TOML # ignore these languages
 
           # Commit Configuration
