@@ -30,6 +30,14 @@ jobs:
           LANG_COUNT: 5 # limit to top 5 languages for a concise summary
           SHOW_TIME: true # display time spent per language or activity
           SHOW_TOTAL: true # show the overall time spent on VSCode
+          SHOW_PROJECTS: "True"
+          SHOW_TOTAL_CODE_TIME : "False"
+          SHOW_LANGUAGE : "True"
+          SHOW_SHORT_INFO : "True"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS : "True"
+          LOCALE: "en"
           SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
           IGNORED_LANGUAGES: YAML JSON TOML # ignore these languages
@@ -40,5 +48,5 @@ jobs:
           TARGET_PATH: README.md # target README file
           COMMITTER_NAME: "GitHub Action Bot"
           COMMITTER_EMAIL: "action-bot@github.com"
-          AUTHOR_NAME: "Your Name"
+          AUTHOR_NAME: "Claudio Rea"
           AUTHOR_EMAIL: ${{ secrets.AUTHOR_EMAIL }} # set email in GitHub secrets for privacy
