@@ -22,7 +22,7 @@ jobs:
           # Content Configuration
           SHOW_TITLE: true
           SECTION_NAME: waka # custom section header
-          BLOCKS: -> # collapsible sections in the report
+          BLOCKS: ░▒▓█ # collapsible sections in the report
           CODE_LANG: vscode # specifically for metrics related to VSCode usage
           TIME_RANGE: last_7_days # shows data from the past week
           LANG_COUNT: 5 # limit to top 5 languages for a concise summary
