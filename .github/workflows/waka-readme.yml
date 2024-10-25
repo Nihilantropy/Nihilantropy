@@ -22,7 +22,7 @@ jobs:
           # Content Configuration
           SHOW_TITLE: true # add title to waka-readme section in README
           SECTION_NAME: waka # custom section header for stats
-          BLOCKS: => # ASCII art to use for stats graph
+          BLOCKS: ██████████▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ # fancier ASCII art for stats graph
           CODE_LANG: txt # syntax highlighting for stats content
           TIME_RANGE: last_7_days # set time range for stats (last 7 days)
           LANG_COUNT: 5 # display top 5 languages
