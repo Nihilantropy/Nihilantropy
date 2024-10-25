@@ -38,6 +38,9 @@ I'm a **philosophy graduate** and a **book lover** who decided to dive into the 
 
 I’m committed to becoming an expert in my field and contributing to interesting projects. Every day is an opportunity to learn something new and put it into practice!
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## 📫 Let's Connect
 
 I’d love to chat about technology, cybersecurity, or just exchange ideas. Here’s how you can reach me:
