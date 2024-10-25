@@ -1,10 +1,10 @@
-name: Waka Readme
+name: Waka Readme Metrics
 
 on:
   # for manual workflow trigger
   workflow_dispatch:
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
+    # runs daily at 12 AM UTC
     - cron: "0 0 * * *"
 
 jobs:
@@ -12,32 +12,33 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-        # this action name
-      - uses: athul/waka-readme@master # do NOT replace with anything else
+      # Step to update README with WakaTime metrics
+      - name: WakaTime Metrics Update
+        uses: athul/waka-readme@master
         with:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }} # optional if on profile readme
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
-          ### meta
-          API_BASE_URL: https://wakatime.com/api # optional
-          REPOSITORY: Nihilantropy/Nihilantropy # optional
-          ### content
-          SHOW_TITLE: true # optional
-          SECTION_NAME: waka # optional
-          BLOCKS: -> # optional
-          CODE_LANG: rust # optional
-          TIME_RANGE: all_time # optional
-          LANG_COUNT: 10 # optional
-          SHOW_TIME: true # optional
-          SHOW_TOTAL: true # optional
-          SHOW_MASKED_TIME: false # optional
-          STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML # optional
-          ### commit
-          COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          TARGET_BRANCH: master # optional
-          TARGET_PATH: README.md # optional
-          COMMITTER_NAME: GitHubActionBot # optional
-          COMMITTER_EMAIL: action-bot@github.com # optional
-          AUTHOR_NAME: Nihil # optional
-          AUTHOR_EMAIL: crea@student.42roma.it # optional
-          # you can populate email-id with secrets instead
+          
+          # Meta Configuration
+          API_BASE_URL: https://wakatime.com/api/v1 # recommended URL format
+          
+          # Content Configuration
+          SHOW_TITLE: true
+          SECTION_NAME: waka-metrics # custom section header
+          BLOCKS: -> # collapsible sections in the report
+          CODE_LANG: vscode # specifically for metrics related to VSCode usage
+          TIME_RANGE: last_7_days # shows data from the past week
+          LANG_COUNT: 5 # limit to top 5 languages for a concise summary
+          SHOW_TIME: true # display time spent per language or activity
+          SHOW_TOTAL: true # show the overall time spent on VSCode
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: YAML JSON TOML # ignore these languages
+
+          # Commit Configuration
+          COMMIT_MESSAGE: "Update waka-readme metrics for VSCode activity"
+          TARGET_BRANCH: main # use 'main' branch if applicable
+          TARGET_PATH: README.md # target README file
+          COMMITTER_NAME: "GitHub Action Bot"
+          COMMITTER_EMAIL: "action-bot@github.com"
+          AUTHOR_NAME: "Your Name"
+          AUTHOR_EMAIL: ${{ secrets.AUTHOR_EMAIL }} # set email in GitHub secrets for privacy
