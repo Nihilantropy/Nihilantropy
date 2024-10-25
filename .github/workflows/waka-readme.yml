@@ -20,19 +20,17 @@ jobs:
           API_BASE_URL: https://wakatime.com/api # default API URL format
           
           # Content Configuration
-          SHOW_TITLE: true
-          SECTION_NAME: waka # custom section header
-          BLOCKS: ░▒▓█ # collapsible sections in the report
-          CODE_LANG: vscode # specifically for metrics related to VSCode usage
-          TIME_RANGE: last_7_days # shows data from the past week
-          LANG_COUNT: 5 # limit to top 5 languages for a concise summary
-          SHOW_TIME: true # display time spent per language or activity
-          SHOW_TOTAL: true # show the overall time spent on VSCode
-          STOP_AT_OTHER: true # stop at "Other" section
-          IGNORED_LANGUAGES: YAML JSON TOML # ignore these languages
-          
-          STOP_AT_OTHER: true # stop at "Other" section
-          IGNORED_LANGUAGES: YAML JSON TOML # ignore these languages
+          SHOW_TITLE: true # add title to waka-readme section in README
+          SECTION_NAME: waka # custom section header for stats
+          BLOCKS: => # ASCII art to use for stats graph
+          CODE_LANG: txt # syntax highlighting for stats content
+          TIME_RANGE: last_7_days # set time range for stats (last 7 days)
+          LANG_COUNT: 5 # display top 5 languages
+          SHOW_TIME: true # display time spent per language/activity
+          SHOW_TOTAL: true # show total coding time
+          SHOW_MASKED_TIME: false # disable masked time including unclassified languages
+          STOP_AT_OTHER: true # stop listing when "Other" is reached in languages
+          IGNORED_LANGUAGES: YAML JSON TOML # ignore specific languages
 
           # Commit Configuration
           COMMIT_MESSAGE: "Update waka-readme metrics for VSCode activity"
