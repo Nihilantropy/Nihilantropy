@@ -28,6 +28,16 @@ jobs:
           LANG_COUNT: 5 # limit to top 5 languages for a concise summary
           SHOW_TIME: true # display time spent per language or activity
           SHOW_TOTAL: true # show the overall time spent on VSCode
+
+          SHOW_PROJECTS: "True"
+          SHOW_TOTAL_CODE_TIME : "False"
+          SHOW_LANGUAGE : "True"
+          SHOW_SHORT_INFO : "True"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_PROFILE_VIEWS : "True"
+          LOCALE: "en"
+          
           STOP_AT_OTHER: true # stop at "Other" section
           IGNORED_LANGUAGES: YAML JSON TOML # ignore these languages
 
