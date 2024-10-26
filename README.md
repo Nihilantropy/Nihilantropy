@@ -40,14 +40,14 @@ I’m committed to becoming an expert in my field and contributing to interestin
 
 <!--START_SECTION:waka-->
 
-```vscode
+```txt
 From: 17 October 2024 - To: 24 October 2024
 
 Total Time: 2 hrs 51 mins
 
-Docker       51 mins         >>>>>>>>-----------------   30.12 %
-JavaScript   28 mins         >>>>---------------------   16.53 %
-C++          14 mins         >>-----------------------   08.63 %
+Docker       51 mins         ▒▒▒▒▒▒▒▒█████████████████   30.12 %
+JavaScript   28 mins         ▒▒▒▒█████████████████████   16.53 %
+C++          14 mins         ▒▒███████████████████████   08.63 %
 ```
 
 <!--END_SECTION:waka-->
