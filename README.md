@@ -43,7 +43,7 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 November 2024 - To: 16 November 2024
+From: 10 November 2024 - To: 17 November 2024
 
 Total Time: 19 hrs 16 mins
 
