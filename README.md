@@ -43,15 +43,15 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 November 2024 - To: 18 November 2024
+From: 13 November 2024 - To: 20 November 2024
 
-Total Time: 16 hrs 39 mins
+Total Time: 12 hrs 22 mins
 
-GDScript3                  9 hrs 1 min     ▒▒▒▒▒▒▒▒▒▒▒▒▒▒███████████   54.13 %
-Java                       5 hrs 53 mins   ▒▒▒▒▒▒▒▒▒████████████████   35.31 %
-JavaScript                 45 mins         ▒████████████████████████   04.55 %
-Markdown                   23 mins         ▒████████████████████████   02.40 %
-Git Config                 6 mins          █████████████████████████   00.64 %
+GDScript3                  2 hrs 59 mins   ▒▒▒▒▒▒███████████████████   23.84 %
+C                          2 hrs 44 mins   ▒▒▒▒▒▒███████████████████   21.89 %
+Java                       2 hrs 29 mins   ▒▒▒▒▒████████████████████   19.94 %
+JavaScript                 1 hr 23 mins    ▒▒▒██████████████████████   11.06 %
+Nginx configuration file   26 mins         ▒████████████████████████   03.46 %
 ```
 
 <!--END_SECTION:waka-->
