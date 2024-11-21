@@ -42,7 +42,7 @@ I’m committed to becoming an expert in my field and contributing to interestin
 
 ## 🕐 Time Spent Repository
 
-<a href="https://wakatime.com/badge/user/44b0aa1f-f476-4c83-86ea-518202a0bfd6/project/a972298b-1a22-4c14-a724-043fd4a91c58"><img src="https://wakatime.com/badge/user/44b0aa1f-f476-4c83-86ea-518202a0bfd6/project/a972298b-1a22-4c14-a724-043fd4a91c58.svg" alt="FidesChallenge"></a>
+**FidesChallenge** [![wakatime](https://wakatime.com/badge/user/44b0aa1f-f476-4c83-86ea-518202a0bfd6/project/a972298b-1a22-4c14-a724-043fd4a91c58.svg)](https://wakatime.com/badge/user/44b0aa1f-f476-4c83-86ea-518202a0bfd6/project/a972298b-1a22-4c14-a724-043fd4a91c58)
 
 <!--START_SECTION:waka-->
 
