@@ -48,14 +48,14 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2024 - To: 24 November 2024
+From: 18 November 2024 - To: 25 November 2024
 
-Total Time: 27 hrs 33 mins
+Total Time: 35 hrs 14 mins
 
-Makefile                   4 hrs 22 mins   ▒▒▒▒█████████████████████   15.73 %
-Java                       3 hrs 33 mins   ▒▒▒██████████████████████   12.83 %
-JavaScript                 2 hrs 53 mins   ▒▒▒██████████████████████   10.43 %
-C                          2 hrs 44 mins   ▒▒▒██████████████████████   09.87 %
+JavaScript                 5 hrs 57 mins   ▒▒▒▒█████████████████████   16.79 %
+Java                       5 hrs 37 mins   ▒▒▒▒█████████████████████   15.87 %
+Makefile                   4 hrs 45 mins   ▒▒▒██████████████████████   13.43 %
+C                          2 hrs 44 mins   ▒▒███████████████████████   07.73 %
 ```
 
 <!--END_SECTION:waka-->
