@@ -30,7 +30,7 @@ jobs:
           SHOW_TOTAL: true # show total coding time
           SHOW_MASKED_TIME: false # disable masked time including unclassified languages
           STOP_AT_OTHER: true # stop listing when "Other" is reached in languages
-          IGNORED_LANGUAGES: YAML JSON TOML # ignore specific languages
+          IGNORED_LANGUAGES: TOML # ignore specific languages
 
           # Commit Configuration
           COMMIT_MESSAGE: "Update waka-readme metrics for VSCode activity"
