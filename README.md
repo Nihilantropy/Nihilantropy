@@ -1,6 +1,6 @@
 # Hello partner, It's me! 🐺
 
-I'm **Claudio Rea**, also known as **Nihilantropy** in the vibrant world of coding. 🇮🇹 Proudly Italian and currently studying at **42 School** in Rome. 🎓
+I'm **Claudio Rea**, also known as **Nihilantropy** in the vibrant world of coding. :fire: Proudly Italian and currently studying at **42 School** in Rome. 🎓
 
 ## 👋 About Me
 
