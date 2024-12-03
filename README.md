@@ -25,6 +25,8 @@ I'm **Claudio Rea**, also known as **Nihilantropy** in the vibrant world of codi
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## My stats📊
+[![crea's 42 stats](https://badge.mediaplus.ma/levi/crea)](https://github.com/oakoudad/badge42)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihilantropy&theme=dracula&show_icons=true)
 
 I'm a **philosophy graduate** and a **book lover** who decided to dive into the world of IT. Although I'm fairly new to coding, my passion for **cybersecurity**, **game programming**, and **technology** drives me to learn and grow every day. I'm naturally **curious** and **excited** to see what the future holds!
