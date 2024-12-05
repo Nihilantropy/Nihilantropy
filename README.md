@@ -48,15 +48,15 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 November 2024 - To: 02 December 2024
+From: 26 November 2024 - To: 03 December 2024
 
-Total Time: 23 hrs 25 mins
+Total Time: 26 hrs 21 mins
 
-YAML                       9 hrs           ▒▒▒▒▒▒▒▒▒████████████████   37.26 %
-Docker                     2 hrs 19 mins   ▒▒▒██████████████████████   09.64 %
-Java                       1 hr 52 mins    ▒▒███████████████████████   07.77 %
-C++                        1 hr 45 mins    ▒▒███████████████████████   07.25 %
-JavaScript                 1 hr 44 mins    ▒▒███████████████████████   07.20 %
+YAML                       7 hrs 36 mins   ▒▒▒▒▒▒▒██████████████████   28.09 %
+C++                        7 hrs 2 mins    ▒▒▒▒▒▒▒██████████████████   25.99 %
+Docker                     2 hrs 19 mins   ▒▒███████████████████████   08.60 %
+JavaScript                 1 hr 38 mins    ▒▒███████████████████████   06.07 %
+Bash                       1 hr 26 mins    ▒████████████████████████   05.29 %
 ```
 
 <!--END_SECTION:waka-->
