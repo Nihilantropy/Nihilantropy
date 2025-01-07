@@ -48,12 +48,12 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2024 - To: 04 January 2025
+From: 29 December 2024 - To: 05 January 2025
 
-Total Time: 11 hrs 48 mins
+Total Time: 20 hrs 31 mins
 
-C             10 hrs 9 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█████   79.99 %
-Other         52 mins         ▒▒███████████████████████   06.93 %
+C             18 hrs 36 mins  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒███   86.53 %
+Other         59 mins         ▒████████████████████████   04.60 %
 ```
 
 <!--END_SECTION:waka-->
