@@ -29,8 +29,8 @@ I'm **Claudio Rea**, also known as **Nihilantropy** in the vibrant world of codi
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihilantropy&theme=dracula&show_icons=true)
 
-It's been **one year**! What an exiting journey, and i keep feeling it... that urge to **learn**. New challenges, new skills, new horizons!
-With the **42 Common core** coming to an end the exitement grows for what is about to come 🔥!
+It's been one year! What an exciting journey, and I keep feeling it... that urge to learn. New challenges, new skills, new horizons!
+With the 42 Common Core coming to an end, the excitement grows for what is about to come 🔥!
 
 ## 🚀 What I Do
 
