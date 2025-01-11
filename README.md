@@ -1,6 +1,7 @@
 # Hello partner, It's me! 🐺
 
-I'm **Claudio Rea**, also known as **Nihilantropy** in the vibrant world of coding. :fire: Proudly Italian and currently studying at **42 School** in Rome. 🎓
+I'm **Claudio Rea**, also known as **Nihilantropy** in the vibrant world of coding. 🔥 Proudly Italian and currently studying at **42 School** in Rome. 🎓
+
 
 ## 👋 About Me
 
@@ -35,7 +36,7 @@ With the 42 Common Core coming to an end, the excitement grows for what is about
 ## 🚀 What I Do
 
 - **Student** at 42 School in Rome, exploring and learning the amazing world of programming.
-- **Enthusiast** of IT, cybersecurity (HTB Academy), and game programming (Self teaching). Always eager for new challenges and exciting projects.
+- **Enthusiast** of IT, cybersecurity (HTB Academy), and game programming (self-taught). Always eager for new challenges and exciting projects.
 - **Curious and Driven** to continuously improve my skills and discover new technologies.
 
 ## 🌱 Growing Every Day
@@ -70,6 +71,6 @@ Thanks for checking out my profile! 🐺
 ---
 
 **Curiosity**
-Last project was **Cub3D**, a wolderfull dive into the early days of 3D game programming!
+My last project was **Cub3D**, a wonderful dive into the early days of 3D game programming!
 Currently playing **League of Legends** because... why not?!
 
