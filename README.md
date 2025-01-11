@@ -42,7 +42,7 @@ With the **42 Common core** coming to an end the exitement grows for what is abo
 
 I’m committed to becoming an expert in my field and contributing to interesting projects. Every day is an opportunity to learn something new and put it into practice!
 
-## 🕐 Time Spent Repository
+## 🕐 Time Spent Coding
 
 <!--START_SECTION:waka-->
 
