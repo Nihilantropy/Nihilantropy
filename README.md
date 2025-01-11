@@ -29,7 +29,8 @@ I'm **Claudio Rea**, also known as **Nihilantropy** in the vibrant world of codi
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nihilantropy&theme=dracula&show_icons=true)
 
-I'm a **philosophy graduate** and a **book lover** who decided to dive into the world of IT. Although I'm fairly new to coding, my passion for **cybersecurity**, **game programming**, and **technology** drives me to learn and grow every day. I'm naturally **curious** and **excited** to see what the future holds!
+It's been **one year**! What an exiting journey, and i keep feeling it... that urge to **learn**. New challenges, new skills, new horizons!
+With the **42 Common core** coming to an end the exitement grows for what is about to come 🔥!
 
 ## 🚀 What I Do
 
@@ -42,8 +43,6 @@ I'm a **philosophy graduate** and a **book lover** who decided to dive into the 
 I’m committed to becoming an expert in my field and contributing to interesting projects. Every day is an opportunity to learn something new and put it into practice!
 
 ## 🕐 Time Spent Repository
-
-**FidesChallenge** [![wakatime](https://wakatime.com/badge/user/44b0aa1f-f476-4c83-86ea-518202a0bfd6/project/a972298b-1a22-4c14-a724-043fd4a91c58.svg)](https://wakatime.com/badge/user/44b0aa1f-f476-4c83-86ea-518202a0bfd6/project/a972298b-1a22-4c14-a724-043fd4a91c58)
 
 <!--START_SECTION:waka-->
 
@@ -71,6 +70,6 @@ Thanks for checking out my profile! 🐺
 ---
 
 **Curiosity**
-Taking part in Fides challenge for **building a microservices application**!
-I'm currently playing **Red Dead Redemption 2** 🤠!
+Last project was **Cub3D**, a wolderfull dive into the early days of 3D game programming!
+Currently playing **League of Legends** because... why not?!
 
