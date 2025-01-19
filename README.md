@@ -47,15 +47,15 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 January 2025 - To: 16 January 2025
+From: 10 January 2025 - To: 17 January 2025
 
-Total Time: 22 hrs 12 mins
+Total Time: 24 hrs 3 mins
 
-Bash                       11 hrs 55 mins  ▒▒▒▒▒▒▒▒▒▒▒▒▒████████████   53.24 %
-YAML                       4 hrs 13 mins   ▒▒▒▒▒████████████████████   18.87 %
-Docker                     3 hrs 16 mins   ▒▒▒▒█████████████████████   14.65 %
-Makefile                   1 hr 17 mins    ▒▒███████████████████████   05.76 %
-Python                     16 mins         █████████████████████████   01.21 %
+Bash                       13 hrs 32 mins  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒███████████   55.84 %
+YAML                       4 hrs 30 mins   ▒▒▒▒▒████████████████████   18.63 %
+Docker                     3 hrs 26 mins   ▒▒▒▒█████████████████████   14.22 %
+Makefile                   1 hr 19 mins    ▒████████████████████████   05.46 %
+JSON                       25 mins         ▒████████████████████████   01.74 %
 ```
 
 <!--END_SECTION:waka-->
