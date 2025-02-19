@@ -47,12 +47,14 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2025 - To: 16 February 2025
+From: 10 February 2025 - To: 17 February 2025
 
-Total Time: 6 hrs 2 mins
+Total Time: 4 hrs 47 mins
 
-Markdown     4 hrs 8 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██████████   60.42 %
-Other        48 mins         ▒▒▒██████████████████████   11.80 %
+Markdown     3 hrs 22 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒████████   67.72 %
+YAML         47 mins         ▒▒▒▒█████████████████████   15.73 %
+Ruby         37 mins         ▒▒▒██████████████████████   12.68 %
+Other        11 mins         ▒████████████████████████   03.83 %
 ```
 
 <!--END_SECTION:waka-->
