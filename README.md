@@ -47,11 +47,12 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 February 2025 - To: 27 February 2025
+From: 21 February 2025 - To: 28 February 2025
 
-Total Time: 12 mins
+Total Time: 1 hr 22 mins
 
-Other      18 mins         ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██████████   59.76 %
+Bash       31 mins         ▒▒▒▒▒▒▒▒█████████████████   30.82 %
+Other      18 mins         ▒▒▒▒▒████████████████████   18.39 %
 ```
 
 <!--END_SECTION:waka-->
