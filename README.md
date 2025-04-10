@@ -47,12 +47,14 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2025 - To: 07 April 2025
+From: 01 April 2025 - To: 08 April 2025
 
-Total Time: 19 hrs 10 mins
+Total Time: 18 hrs 27 mins
 
-Terraform         10 hrs 45 mins  ▒▒▒▒▒▒▒▒▒▒▒▒▒████████████   49.76 %
-Other             2 hrs 26 mins   ▒▒▒██████████████████████   11.26 %
+Terraform         10 hrs 45 mins  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒███████████   54.36 %
+YAML              2 hrs 18 mins   ▒▒▒██████████████████████   11.69 %
+Bash              1 hr 37 mins    ▒▒███████████████████████   08.23 %
+Other             1 hr 19 mins    ▒▒███████████████████████   06.71 %
 ```
 
 <!--END_SECTION:waka-->
