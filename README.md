@@ -47,12 +47,12 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2025 - To: 24 April 2025
+From: 18 April 2025 - To: 25 April 2025
 
-Total Time: 1 hr 45 mins
+Total Time: 4 mins
 
-C++        1 hr 32 mins    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█████   78.10 %
-Other      13 mins         ▒▒▒██████████████████████   11.48 %
+Bash   2 mins          ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█████████   62.18 %
+C++    1 min           ▒▒▒▒▒▒▒▒▒▒███████████████   37.82 %
 ```
 
 <!--END_SECTION:waka-->
