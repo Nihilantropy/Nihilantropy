@@ -24,7 +24,7 @@ I'm **Claudio Rea**, also known as **Nihilantropy** in the vibrant world of codi
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Current Job
-I'm currently working as a **DevOps engeneer**
+**DevOps engeneer** at Ko2
 
 ## My stats📊
 [![crea's 42 stats](https://badge.mediaplus.ma/levi/crea)](https://github.com/oakoudad/badge42)
