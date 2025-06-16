@@ -49,15 +49,15 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2025 - To: 13 June 2025
+From: 07 June 2025 - To: 14 June 2025
 
-Total Time: 14 hrs 52 mins
+Total Time: 12 hrs 54 mins
 
-Markdown     6 hrs 40 mins   ▒▒▒▒▒▒▒▒▒▒▒██████████████   44.52 %
-YAML         4 hrs 36 mins   ▒▒▒▒▒▒▒▒█████████████████   30.73 %
-TypeScript   1 hr 48 mins    ▒▒▒██████████████████████   12.05 %
-Terraform    1 hr 12 mins    ▒▒███████████████████████   08.02 %
-HCL          13 mins         █████████████████████████   01.49 %
+Markdown         4 hrs 43 mins   ▒▒▒▒▒▒▒▒▒████████████████   36.55 %
+YAML             4 hrs 36 mins   ▒▒▒▒▒▒▒▒▒████████████████   35.55 %
+TypeScript       1 hr 43 mins    ▒▒▒██████████████████████   13.37 %
+Terraform        1 hr 12 mins    ▒▒███████████████████████   09.27 %
+HCL              13 mins         ▒████████████████████████   01.73 %
 ```
 
 <!--END_SECTION:waka-->
