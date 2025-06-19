@@ -49,15 +49,15 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 June 2025 - To: 16 June 2025
+From: 10 June 2025 - To: 17 June 2025
 
-Total Time: 9 hrs 15 mins
+Total Time: 8 hrs 28 mins
 
-YAML             4 hrs 51 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒████████████   51.66 %
-Markdown         3 hrs 27 mins   ▒▒▒▒▒▒▒▒▒████████████████   36.74 %
-Godot Resource   25 mins         ▒████████████████████████   04.46 %
-GDScript3        20 mins         ▒████████████████████████   03.57 %
-Makefile         11 mins         ▒████████████████████████   01.96 %
+YAML             4 hrs 37 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒███████████   53.66 %
+Markdown         2 hrs 54 mins   ▒▒▒▒▒▒▒▒▒████████████████   33.69 %
+Godot Resource   25 mins         ▒████████████████████████   04.87 %
+GDScript3        20 mins         ▒████████████████████████   03.90 %
+Makefile         11 mins         ▒████████████████████████   02.14 %
 ```
 
 <!--END_SECTION:waka-->
