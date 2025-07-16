@@ -49,12 +49,12 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 July 2025 - To: 13 July 2025
+From: 07 July 2025 - To: 14 July 2025
 
-Total Time: 24 hrs
+Total Time: 22 hrs 57 mins
 
-YAML               16 hrs 27 mins  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒███████████   55.32 %
-Other              5 hrs 44 mins   ▒▒▒▒▒████████████████████   19.32 %
+YAML               15 hrs 11 mins  ▒▒▒▒▒▒▒▒▒▒▒▒▒▒███████████   57.08 %
+Other              3 hrs 39 mins   ▒▒▒▒█████████████████████   13.75 %
 ```
 
 <!--END_SECTION:waka-->
