@@ -49,12 +49,12 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 July 2025 - To: 17 July 2025
+From: 11 July 2025 - To: 18 July 2025
 
-Total Time: 22 hrs 20 mins
+Total Time: 20 hrs 52 mins
 
-Docker             9 hrs 56 mins   ▒▒▒▒▒▒▒▒▒████████████████   35.72 %
-Other              5 hrs 30 mins   ▒▒▒▒▒████████████████████   19.79 %
+Docker             12 hrs 19 mins  ▒▒▒▒▒▒▒▒▒▒▒██████████████   45.07 %
+Other              6 hrs 28 mins   ▒▒▒▒▒▒███████████████████   23.69 %
 ```
 
 <!--END_SECTION:waka-->
