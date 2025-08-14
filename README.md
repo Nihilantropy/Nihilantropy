@@ -49,15 +49,15 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2025 - To: 11 August 2025
+From: 05 August 2025 - To: 12 August 2025
 
-Total Time: 10 hrs 12 mins
+Total Time: 6 hrs 12 mins
 
-Markdown         3 hrs 38 mins   ▒▒▒▒▒▒▒▒▒████████████████   35.11 %
-Terraform        1 hr 46 mins    ▒▒▒▒█████████████████████   17.10 %
-CSV              1 hr 8 mins     ▒▒▒██████████████████████   11.06 %
-YAML             58 mins         ▒▒███████████████████████   09.34 %
-Docker           36 mins         ▒▒███████████████████████   05.94 %
+Markdown         3 hrs 11 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒████████████   51.34 %
+CSV              45 mins         ▒▒▒██████████████████████   12.09 %
+Terraform        33 mins         ▒▒███████████████████████   08.99 %
+JSON             30 mins         ▒▒███████████████████████   08.19 %
+Python           27 mins         ▒▒███████████████████████   07.32 %
 ```
 
 <!--END_SECTION:waka-->
