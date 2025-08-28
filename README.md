@@ -49,15 +49,14 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 August 2025 - To: 25 August 2025
+From: 19 August 2025 - To: 26 August 2025
 
-Total Time: 3 hrs 6 mins
+Total Time: 4 hrs 16 mins
 
-YAML         2 hrs 18 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██████   74.08 %
-Cheetah      20 mins         ▒▒▒██████████████████████   11.19 %
-Markdown     10 mins         ▒▒███████████████████████   05.76 %
-Makefile     9 mins          ▒████████████████████████   05.08 %
-Go           2 mins          █████████████████████████   01.47 %
+YAML             2 hrs 51 mins   ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒█████████   62.14 %
+Terraform        26 mins         ▒▒███████████████████████   09.42 %
+Cheetah          20 mins         ▒▒███████████████████████   07.55 %
+Other            19 mins         ▒▒███████████████████████   07.08 %
 ```
 
 <!--END_SECTION:waka-->
