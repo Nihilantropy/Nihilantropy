@@ -49,14 +49,13 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 December 2025 - To: 07 January 2026
+From: 01 January 2026 - To: 08 January 2026
 
-Total Time: 9 hrs 21 mins
+Total Time: 10 hrs 50 mins
 
-YAML                       4 hrs 5 mins    ▒▒▒▒▒▒▒▒▒▒███████████████   41.12 %
-Groovy                     3 hrs 58 mins   ▒▒▒▒▒▒▒▒▒▒███████████████   40.00 %
-Markdown                   1 hr 2 mins     ▒▒▒██████████████████████   10.42 %
-Other                      34 mins         ▒▒███████████████████████   05.75 %
+YAML                       4 hrs 39 mins   ▒▒▒▒▒▒▒▒▒▒███████████████   37.68 %
+Groovy                     4 hrs 31 mins   ▒▒▒▒▒▒▒▒▒████████████████   36.67 %
+Other                      1 hr 30 mins    ▒▒▒██████████████████████   12.16 %
 ```
 
 <!--END_SECTION:waka-->
