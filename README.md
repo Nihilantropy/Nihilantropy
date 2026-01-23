@@ -49,12 +49,11 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2026 - To: 20 January 2026
+From: 14 January 2026 - To: 21 January 2026
 
-Total Time: 11 hrs 47 mins
+Total Time: 10 hrs 56 mins
 
-Groovy            6 hrs 22 mins   ▒▒▒▒▒▒▒▒▒▒███████████████   37.74 %
-Other             5 hrs 4 mins    ▒▒▒▒▒▒▒▒█████████████████   30.11 %
+Other             5 hrs 26 mins   ▒▒▒▒▒▒▒▒█████████████████   33.19 %
 ```
 
 <!--END_SECTION:waka-->
