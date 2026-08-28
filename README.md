@@ -49,15 +49,14 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 August 2026 - To: 26 August 2026
+From: 20 August 2026 - To: 27 August 2026
 
-Total Time: 12 hrs 5 mins
+Total Time: 14 hrs 57 mins
 
-Python          5 hrs 43 mins         ▒▒▒▒▒▒▒▒▒▒▒▒█████████████   47.30 %
-Markdown        4 hrs 52 mins         ▒▒▒▒▒▒▒▒▒▒███████████████   40.25 %
-Bash            1 hr 7 mins           ▒▒███████████████████████   09.29 %
-HTML            10 mins               █████████████████████████   01.40 %
-JSON            5 mins                █████████████████████████   00.72 %
+Markdown        7 hrs 16 mins         ▒▒▒▒▒▒▒▒▒▒▒▒█████████████   46.02 %
+Python          5 hrs 54 mins         ▒▒▒▒▒▒▒▒▒████████████████   37.32 %
+Bash            1 hr 17 mins          ▒▒███████████████████████   08.14 %
+Other           52 mins               ▒████████████████████████   05.48 %
 ```
 
 <!--END_SECTION:waka-->
