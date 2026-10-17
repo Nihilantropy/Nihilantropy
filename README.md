@@ -49,15 +49,12 @@ I’m committed to becoming an expert in my field and contributing to interestin
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2026 - To: 14 October 2026
+From: 08 October 2026 - To: 15 October 2026
 
-Total Time: 1 hr 9 mins
+Total Time: 1 hr 58 mins
 
-Python      51 mins               ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒██████   74.35 %
-Markdown    10 mins               ▒▒▒▒█████████████████████   15.09 %
-YAML        5 mins                ▒▒███████████████████████   08.64 %
-HTML        1 min                 █████████████████████████   01.51 %
-Terraform   0 secs                █████████████████████████   00.40 %
+Python      51 mins               ▒▒▒▒▒▒▒▒█████████████████   31.63 %
+Other       44 mins               ▒▒▒▒▒▒▒██████████████████   27.15 %
 ```
 
 <!--END_SECTION:waka-->
